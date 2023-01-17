@@ -1,5 +1,5 @@
- #PROJETO DE ANÁLISE DE PREVISÃO DE CRÉDITO#
-##INTRODUÇÃO AO PROBLEMA DE NEGÓCIO##
+# PROJETO DE ANÁLISE DE PREVISÃO DE CRÉDITO
+## INTRODUÇÃO AO PROBLEMA DE NEGÓCIO
 Um crédito é uma quantia de dinheiro que se deve a uma entidade (por exemplo, um banco) ou a uma pessoa. No caso do crédito que se obtém através de um banco (chamado de “crédito bancário”), ele pode tanto ser oferecido pelo banco a uma pessoa física (pessoa comum) como para uma pessoa jurídica (uma empresa). Os créditos estão relacionados às compras e qualquer operação financeira que envolva confiança e empréstimos com objetivo de movimentar a economia.
 
 No entanto, todo crédito envolve riscos que são a probabilidade de alguém adquirir uma dívida e não honrar com seu pagamento, e é algo que deve ser avaliado em todas as transações e operações financeiras envolvendo um lado que “empresta” dinheiro (independentemente do formato) e outro que recebe esse empréstimo.
