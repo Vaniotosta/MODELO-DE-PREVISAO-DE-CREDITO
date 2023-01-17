@@ -23,6 +23,7 @@ PRÉ-PROCESSAMENTO PARA MODELAGEM;
 CONSIDERAÇÕES FINAIS
 
 Quanto à análise exploratória alguns dados se mostram relevantes:
+
 1 Existem uma discrepância normal entre os créditos não aprovados e aprovados, sua relação com a renda pressupõe uma margem de crescimento entre os não aprovados.
 
 2 Os créditos aprovados têm uma relação direta com os endividamentos e quanto maiores os créditos aprovados, maiores são os investmentos.
