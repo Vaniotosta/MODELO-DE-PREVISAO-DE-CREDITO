@@ -8,7 +8,9 @@ No entanto, todo crédito envolve riscos que são a probabilidade de alguém adq
 -Tal objetivo nasce da necessidades de gerar insights sobre o perfil da carteira de cliente para mapear possíveis oportunidades de crescimento, além de evitar o risco de possíveis inadimplência.
 
 É importante ressaltar que o projeto analisa os créditos aprovados e não aprovados, e que não leva em consideração o tipo de empresa que fornece o crédito, haja visto, que o mesmo pode ser cedido por qualquer instituição que trabalhe com essa modalidade de negócio.
+
 ETAPAS DO PROJETO
+
 BUSCA DOS DADOS;
 CONHECER OS DADOS;
 EXPLORAR E TRATAR OS DADOS;
@@ -19,6 +21,7 @@ PRÉ-PROCESSAMENTO PARA MODELAGEM;
 8. CONSIDERAÇÕES FINAIS.
 
 CONSIDERAÇÕES FINAIS
+
 Quanto à análise exploratória alguns dados se mostram relevantes:
 1 Existem uma discrepância normal entre os créditos não aprovados e aprovados, sua relação com a renda pressupõe uma margem de crescimento entre os não aprovados.
 
